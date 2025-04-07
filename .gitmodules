@@ -1,0 +1,12 @@
+[submodule "docs/topic-1"]
+	path = docs/topic-1
+	url = https://github.com/sotasato-jp/reveal.js.git
+	branch = topic-1
+[submodule "docs/topic-2"]
+	path = docs/topic-2
+	url = https://github.com/sotasato-jp/reveal.js.git
+	branch = topic-2
+[submodule "docs/topic-3"]
+	path = docs/topic-3
+	url = https://github.com/sotasato-jp/reveal.js.git
+	branch = topic-3
